@@ -3,7 +3,6 @@
 
 import datetime
 import webbrowser
-from bs4 import BeautifulSoup
 import wikipedia
 import random
 import os
